@@ -1,10 +1,6 @@
 # Aptitude Notes 📊
 
 ![Mathematics](https://img.shields.io/badge/Mathematics-Aptitude-green)
-![License](https://img.shields.io/github/license/Adityas266/Aptitude_Notes)
-[![GitHub issues](https://img.shields.io/github/issues/Adityas266/Aptitude_Notes)](https://github.com/Adityas266/Aptitude_Notes/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Adityas266/Aptitude_Notes)](https://github.com/Adityas266/Aptitude_Notes/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Adityas266/Aptitude_Notes)](https://github.com/Adityas266/Aptitude_Notes/network)
 
 A repository containing study notes, formulas, and practice problems to help you improve your aptitude and mathematical skills, ideal for students preparing for competitive exams or anyone interested in sharpening their problem-solving abilities.
 
